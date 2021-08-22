@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-size_t my_strlen(char *s)
+size_t strlen(char *s)
 {
    char *p = s;
 
